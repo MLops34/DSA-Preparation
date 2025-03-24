@@ -12,5 +12,5 @@ class Solution {
             vector<int>arr;
             postOrder(arr,root);
             return arr;
-        }
+        }    
     };
